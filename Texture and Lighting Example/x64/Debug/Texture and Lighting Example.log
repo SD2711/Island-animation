@@ -1,0 +1,33 @@
+﻿  func.cpp
+C:\Users\user\Downloads\Telegram Desktop\Курсовая работа\Texture and Lighting Example\Texture and Lighting Example\Model.h(30,25): warning C4305: '=': truncation from 'double' to 'GLfloat'
+  (compiling source file 'func.cpp')
+  
+  main.cpp
+C:\Users\user\Downloads\Telegram Desktop\Курсовая работа\Texture and Lighting Example\Texture and Lighting Example\Model.h(30,25): warning C4305: '=': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.cpp')
+  
+C:\Users\user\Downloads\Telegram Desktop\Курсовая работа\Texture and Lighting Example\Texture and Lighting Example\main.cpp(24,18): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\user\Downloads\Telegram Desktop\Курсовая работа\Texture and Lighting Example\Texture and Lighting Example\main.cpp(39,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\Downloads\Telegram Desktop\Курсовая работа\Texture and Lighting Example\Texture and Lighting Example\main.cpp(131,82): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\Downloads\Telegram Desktop\Курсовая работа\Texture and Lighting Example\Texture and Lighting Example\main.cpp(176,16): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\user\Downloads\Telegram Desktop\Курсовая работа\Texture and Lighting Example\Texture and Lighting Example\main.cpp(177,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\user\Downloads\Telegram Desktop\Курсовая работа\Texture and Lighting Example\Texture and Lighting Example\main.cpp(185,16): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\user\Downloads\Telegram Desktop\Курсовая работа\Texture and Lighting Example\Texture and Lighting Example\main.cpp(186,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\user\Downloads\Telegram Desktop\Курсовая работа\Texture and Lighting Example\Texture and Lighting Example\main.cpp(200,17): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\user\Downloads\Telegram Desktop\Курсовая работа\Texture and Lighting Example\Texture and Lighting Example\main.cpp(201,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\user\Downloads\Telegram Desktop\Курсовая работа\Texture and Lighting Example\Texture and Lighting Example\main.cpp(320,53): warning C4551: function call missing argument list
+  Model.cpp
+C:\Users\user\Downloads\Telegram Desktop\Курсовая работа\Texture and Lighting Example\Texture and Lighting Example\Model.h(30,25): warning C4305: '=': truncation from 'double' to 'GLfloat'
+  (compiling source file 'Model.cpp')
+  
+C:\Users\user\Downloads\Telegram Desktop\Курсовая работа\Texture and Lighting Example\Texture and Lighting Example\Model.cpp(17,30): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\user\Downloads\Telegram Desktop\Курсовая работа\Texture and Lighting Example\Texture and Lighting Example\Model.cpp(19,31): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\user\Downloads\Telegram Desktop\Курсовая работа\Texture and Lighting Example\Texture and Lighting Example\Model.cpp(37,30): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\user\Downloads\Telegram Desktop\Курсовая работа\Texture and Lighting Example\Texture and Lighting Example\Model.cpp(39,31): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\user\Downloads\Telegram Desktop\Курсовая работа\Texture and Lighting Example\Texture and Lighting Example\Model.cpp(60,30): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\user\Downloads\Telegram Desktop\Курсовая работа\Texture and Lighting Example\Texture and Lighting Example\Model.cpp(62,31): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\user\Downloads\Telegram Desktop\Курсовая работа\Texture and Lighting Example\Texture and Lighting Example\Model.cpp(195,30): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\user\Downloads\Telegram Desktop\Курсовая работа\Texture and Lighting Example\Texture and Lighting Example\Model.cpp(197,31): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Generating Code...
+glew32sd.lib(glew.obj) : warning LNK4099: PDB '' was not found with 'glew32sd.lib(glew.obj)' or at ''; linking object as if no debug info
+  Texture and Lighting Example.vcxproj -> C:\Users\user\Downloads\Telegram Desktop\Курсовая работа\Texture and Lighting Example\x64\Debug\Texture and Lighting Example.exe
